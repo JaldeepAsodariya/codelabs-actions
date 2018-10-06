@@ -1,6 +1,10 @@
 # Codelabs: Actions on Google
 
 The `level1-complete` directory should be used as a reference for the
+Level 1 codelab, and as a starting point for the Level 2 codelab. The
+`level2-complete` directory can be used as a reference for the Level 2 codelab.
+`
+ The `level1-complete` directory should be used as a reference for the
 Level 1 codelab.
 
 ## Setup Instructions
