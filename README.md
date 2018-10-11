@@ -2,10 +2,9 @@
 
 The `level1-complete` directory should be used as a reference for the
 Level 1 codelab, and as a starting point for the Level 2 codelab. The
-`level2-complete` directory can be used as a reference for the Level 2 codelab.
-`
- The `level1-complete` directory should be used as a reference for the
-Level 1 codelab.
+`level2-complete` directory can be used as a reference for the Level 2 
+codelab, and as a starting point for the Level 3 codelab. The 
+`level3-complete` directory can be used as a reference for the Level 3 codelab.
 
 ## Setup Instructions
 
@@ -17,7 +16,7 @@ Level 1 codelab.
 1. Select *Custom intent*, click *BUILD*. This will open a Dialogflow console. Click *CREATE*.
 1. Click on the gear icon to see the project settings.
 1. Select *Export and Import*.
-1. Select *Restore from zip*. Follow the directions to restore from the `codelabs-actions-level-<one/two>.zip` file in this repo.
+1. Select *Restore from zip*. Follow the directions to restore from the `codelabs-actions-level-<one/two/three>.zip` file in this repo.
 1. Select *Integrations* from the left navigation menu and open the *Integration Settings* menu for Actions on Google.
 1. Enable *Auto-preview changes* and Click *Test*. This will open the Actions on Google simulator.
 1. Type `Talk to my test app` in the simulator, or say `OK Google, talk to my test app` to any Actions on Google enabled device signed into your developer account.
