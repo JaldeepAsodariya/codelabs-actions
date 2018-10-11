@@ -1,0 +1,43 @@
+{
+  "platforms" : [ {
+    "brief" : "GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter.",
+    "chapters" : [ {
+      "aboutBrief" : "Google Developers Group Ahmedabad (GDG Ahmedabad) is for developers who are interested in Google's developer technology.",
+      "image" : {
+        "altText" : "GDG Ahmedabad",
+        "url" : "https://firebasestorage.googleapis.com/v0/b/codelabs-actions-9419e.appspot.com/o/images%2Fplatforms%2Fchapters%2Fconver-GDGAhmedabad.jpeg?alt=media&token=b6221be5-5c95-4fc8-9917-2ad0700e0076"
+      },
+      "name" : "GDG Ahmedabad",
+      "referenceValue" : "GDGAhmedabad",
+      "url" : "https://www.meetup.com/GDG-Ahmedabad/"
+    }, {
+      "aboutBrief" : "GDG Baroda is a community where programmers meet to discuss and work with several Google developer resources and products.",
+      "image" : {
+        "altText" : "GDG Baroda",
+        "url" : "https://firebasestorage.googleapis.com/v0/b/codelabs-actions-9419e.appspot.com/o/images%2Fplatforms%2Fchapters%2Fconver-GDGBaroda.jpeg?alt=media&token=28d41c46-9e10-4fbc-a7ba-a3a567cb4507"
+      },
+      "name" : "GDG Baroda",
+      "referenceValue" : "GDGBaroda",
+      "url" : "https://www.meetup.com/gdgbaroda/"
+    }, {
+      "aboutBrief" : "Google Developer Groups Rajkot is the first Google Developer Group in Saurashtra region of Gujarat.",
+      "image" : {
+        "altText" : "GDG Rajkot",
+        "url" : "https://firebasestorage.googleapis.com/v0/b/codelabs-actions-9419e.appspot.com/o/images%2Fplatforms%2Fchapters%2Fconver-GDGRajkot.jpeg?alt=media&token=711239cd-0828-4582-95a0-f1c738707e8a"
+      },
+      "name" : "GDG Rajkot",
+      "referenceValue" : "GDGRajkot",
+      "url" : "https://www.meetup.com/GDG-Rajkot/"
+    }, {
+      "aboutBrief" : "GDG Surat is a student chapter or a group of like minded enthusiasts who will surely play a role to contribute to the developer ecosystem.\"",
+      "image" : {
+        "altText" : "GDG Surat",
+        "url" : "https://firebasestorage.googleapis.com/v0/b/codelabs-actions-9419e.appspot.com/o/images%2Fplatforms%2Fchapters%2Fconver-GDGSurat.jpeg?alt=media&token=dc38621c-0374-4e49-afad-3c1b281ec618"
+      },
+      "name" : "GDG Surat",
+      "referenceValue" : "GDGSurat",
+      "url" : "https://www.meetup.com/GDG-Surat/"
+    } ],
+    "name" : "gdg"
+  } ]
+}
